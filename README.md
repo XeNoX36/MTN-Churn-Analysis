@@ -1,5 +1,8 @@
 # MTN-Churn-Analysis
 
+*Cleaned and analyzed via pandas*, 
+*Visualized using Matplotlib and Seaborn*
+
 **Insights Generated After Careful Analysis of this Dataset**
 ![MTN Insights](https://github.com/XeNoX36/MTN-Churn-Analysis/blob/main/page1.png)
 ![MTN Insights](https://github.com/XeNoX36/MTN-Churn-Analysis/blob/main/page2.png)
